@@ -14,3 +14,5 @@
 그 날의 할일을 잊지 않도록 자동 알림 기능이 추가적으로 있으면 좋을 것 같다
 
 ## 5주차과제
+<img width="" height="" src="./png/cat.PNG"></img>
+<img width="" height="" src="./png/dog.PNG"></img>
