@@ -16,3 +16,7 @@
 ## 5주차과제
 <img width="" height="" src="./png/cat.PNG"></img>
 <img width="" height="" src="./png/dog.PNG"></img>
+
+## 6주차과제
+<img width="" height="" src="./png/capture1.PNG"></img>
+<img width="" height="" src="./png/capture2.PNG"></img>
