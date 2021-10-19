@@ -20,3 +20,6 @@
 ## 6주차과제
 <img width="" height="" src="./png/capture1.PNG"></img>
 <img width="" height="" src="./png/capture2.PNG"></img>
+
+## 7주차과제
+<img width="" height="" src="./png/d.PNG"></img>
