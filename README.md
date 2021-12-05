@@ -36,4 +36,5 @@
 <img width="" height="" src="./png/name.PNG"></img>
 
 ## 13주차과제
-<img width="" height="" src="./png/캡처.PNG"></img>
+<img width="" height="" src="./png/캡처3.PNG"></img>
+이 부분 오류가 고쳐지지 않습니다..
