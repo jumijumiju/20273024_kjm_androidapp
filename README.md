@@ -36,4 +36,4 @@
 <img width="" height="" src="./png/name.PNG"></img>
 
 ## 13주차과제
-<img width="" height="" src="./png/13.PNG"></img>
+<img width="" height="" src="./png/13."></img>
